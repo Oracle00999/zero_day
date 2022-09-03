@@ -1,1 +1,1 @@
-ubunto
+ubuntu
